@@ -15,3 +15,9 @@ Here are the exercises included:
 - Control the flow of a water tank.
 - Tests knowledge of boolean logic and feedback nodes.
 - Difficulty: Medium
+ 
+## Division
+ - Divide numbers without using the built-in function
+ - Must also support non-integers
+ - Requires string manipulation
+ - Difficulty: Hard
